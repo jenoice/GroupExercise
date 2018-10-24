@@ -18,6 +18,6 @@ public class Die
    }
    public void displayDice()
    {
-    System.out.println("you rolled a " + random);
+    System.out.println("you rolled a " + random + "/nAmazing");
    }
 }
